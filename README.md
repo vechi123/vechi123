@@ -25,7 +25,7 @@ Atualmente estou aprendendo:
 
 | Repositório | Descrição |
 |---|---|
-| [vechi-portifólio](https://github.com/vechi123/vechi-portif%C3%B3lio) | Portfólio profissional com projetos acadêmicos e pessoais |
+| [vechi-portifólio](https://github.com/vechi123/vechi-portifolio) | Portfólio profissional com projetos acadêmicos e pessoais |
 | [pandas_introex1](https://github.com/vechi123/pandas_introex1) | Exercícios introdutórios com Pandas |
 | [pandas_introex1py](https://github.com/vechi123/pandas_introex1py) | Prática com Python e Pandas |
 | [pandas-exercício-2-](https://github.com/vechi123/pandas-exerc%C3%ADcio-2-) | Exercícios avançados com Pandas |
@@ -47,9 +47,8 @@ Atualmente estou aprendendo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-vechi-9250783b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vechi123)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF4081?style=for-the-badge&logo=githubpages&logoColor=white)](https://vechi123.github.io/vechi-portif%C3%B3lio/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF4081?style=for-the-badge&logo=githubpages&logoColor=white)](https://vechi123.github.io/vechi-portifolio/)
 
 ---
 
 ⭐ *Obrigado por visitar meu perfil! Estou sempre aberto a aprender e colaborar.*
--->
