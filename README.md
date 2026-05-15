@@ -47,7 +47,7 @@ Atualmente estou aprendendo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-vechi-9250783b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vechi123)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF4081?style=for-the-badge&logo=githubpages&logoColor=white)](https://vechi123.github.io/vechi-portif%C3%B3lio/)
+[![Portfólio](https://vechi123.github.io/vechi-portifolio/)
 
 ---
 
